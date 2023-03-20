@@ -1,0 +1,39 @@
+.footer {
+  height: 265px;
+  width: 450px;
+  display: grid;
+  margin-top: -95px;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+h1 {
+    margin-top: 76px;
+    font-size: 32px;
+}
+
+p {
+    margin-left: 70px;
+    margin-top:-11px;
+    font-size: 20px;
+}
+
+.line {
+    width: 151%;
+    margin-top:18px;
+    margin-left:-76px;
+    height: 1px;
+    background-color:#000;
+    border: none;
+}
+
+.social-icons {
+    margin-top:-8px;
+    margin-left:66px;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+}

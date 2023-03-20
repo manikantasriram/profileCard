@@ -1,0 +1,12 @@
+.box {
+    height: 180px;
+    width: 450px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: white;
+}
+
+ img {
+    border-top-right-radius: 18px;
+    border-top-left-radius: 18px;
+}
